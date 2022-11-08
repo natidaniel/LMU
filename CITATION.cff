@@ -13,3 +13,5 @@ and Local Map Updates"
 version: 1.0.0
 date-released: 2022-11-08
 url: "https://github.com/natidaniel/LMU"
+preferred-citation:
+  type: article
