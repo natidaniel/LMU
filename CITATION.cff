@@ -1,7 +1,5 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-preferred-citation:
-  type: article
 authors:
 - family-names: "Wilf"
   given-names: "Itzik"
@@ -15,3 +13,20 @@ and Local Map Updates"
 version: 1.0.0
 date-released: 2022-11-08
 url: "https://github.com/natidaniel/LMU"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Wilf"
+    given-names: "Itzik"
+  - family-names: "Daniel"
+    given-names: "Nati"
+    orcid: "https://orcid.org/0000-0002-0939-3379"
+  - family-names: "Manqing"
+    given-names: "Lin"
+  month: 11
+  start: 1 # First page number
+  end: 4 # Last page number
+  title: "Supplementary material of Cumulative Evidence for Scene Change Detection and Local Map Updates"
+  issue: 1
+  volume: 1
+  year: 2022
