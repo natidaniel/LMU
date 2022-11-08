@@ -1,5 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+preferred-citation:
+  type: article
 authors:
 - family-names: "Wilf"
   given-names: "Itzik"
@@ -13,5 +15,3 @@ and Local Map Updates"
 version: 1.0.0
 date-released: 2022-11-08
 url: "https://github.com/natidaniel/LMU"
-preferred-citation:
-  type: article
